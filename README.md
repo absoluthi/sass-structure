@@ -2,29 +2,29 @@
 Criei o projeto para concentrar a estrutura de pastas para SASS em projetos que eu desenvolvo. A ideia é ter sempre a mesma estrtura e funcionamento para todos os projetos e ainda sim ter uma forma de avançar e divulgar isso.
 
 ##Structure:
->my-project
+my-project
 
 	assets/
 
->		sass/
+	sass/
 
->			style.scss
+			style.scss
 
->			_config.scss
+			_config.scss
 
->			layout/
+			layout/
 
->				_home.scss
+				_home.scss
 
->				_contact.scss
+				_contact.scss
 
->			modules/
+			modules/
 
->				_title.scss
+				_title.scss
 
->				_mx-reset-list.scss
+				_mx-reset-list.scss
 
->				_mx-font-antialised.scss
+				_mx-font-antialised.scss
 
 
 ##To Do:
