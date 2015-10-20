@@ -1,4 +1,5 @@
- # SASS Structure
+ #SASS Structure
+
  ####by Absoluthi
 
  ##About:
@@ -20,8 +21,8 @@
 
 ##To Do:
 * How to Use
-*Implementar Borbon
-*Implementar Unsemantic
-*Implementar normalize
-*Implementar bower
-*Implementar grunt/gulp
+* Implementar Borbon
+* Implementar Unsemantic
+* Implementar normalize
+* Implementar bower
+* Implementar grunt/gulp
