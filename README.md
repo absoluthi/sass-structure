@@ -4,7 +4,7 @@ Criei o projeto para concentrar a estrutura de pastas para SASS em projetos que 
 ##Structure:
 >my-project
 
->	assets/
+	assets/
 
 >		sass/
 
