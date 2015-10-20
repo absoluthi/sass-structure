@@ -8,7 +8,8 @@ my-project/
 
 			sass/
 
-				style.scss # Import de todos os arquivos do projeto
+				style.scss
+				# Import de todos os arquivos do projeto
 		
 				_config.scss
 				> Config do projeto - font-face, font-family, cores, icons, sizes, fórmulas, variáveis e etc.
