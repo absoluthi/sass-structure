@@ -9,6 +9,7 @@ Criei o projeto para concentrar a estrutura de pastas para SASS em projetos que 
 			sass/
 
 				style.scss
+				>Import de todos os arquivos do projeto
 		
 				_config.scss
 		
