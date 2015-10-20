@@ -1,8 +1,6 @@
- #SASS Structure
+#SASS Structure
 
- ####by Absoluthi
-
- ##About:
+##About:
  Criei o projeto para concentrar a estrutura de pastas para SASS em projetos que eu desenvolvo. A ideia é ter sempre a mesma estrtura e funcionamento para todos os projetos e ainda sim ter uma forma de avançar e divulgar isso.
 
 ##Structure:
