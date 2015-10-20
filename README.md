@@ -9,9 +9,10 @@ Criei o projeto para concentrar a estrutura de pastas para SASS em projetos que 
 			sass/
 
 				style.scss
-				>Import de todos os arquivos do projeto
+				> Import de todos os arquivos do projeto
 		
 				_config.scss
+				> Config do projeto - font-face, font-family, cores, icons, sizes, fórmulas, variáveis e etc.
 		
 				layout/
 		
