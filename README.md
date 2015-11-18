@@ -8,7 +8,7 @@ Criei o projeto para concentrar a estrutura de pastas para SASS em projetos que 
 
 				sass/
 
-					style.scss
+					main.scss
 					# Import de todos os arquivos do projeto
 		
 					_config.scss
@@ -31,8 +31,8 @@ Criei o projeto para concentrar a estrutura de pastas para SASS em projetos que 
 
 ##To Do:
 * How to Use
-* Implementar Borbon
-* Implementar Unsemantic
-* Implementar normalize
-* Implementar bower
-* Implementar grunt/gulp
+* Implementar uso com Bourbon
+* Implementar uso com Unsemantic
+* Implementar uso com normalize
+* Implementar bower trazendo as dependencias acima;
+* Implementar grunt/gulp (analisar uso correto)
