@@ -1,0 +1,7 @@
+@mixin antialiasing( $type:antialiased ) {
+  /* antialiased, none, subpixel-antialiased*/
+	-webkit-font-smoothing: $type;
+	font-smoothing: $type;
+	font-smooth: always;
+	-moz-osx-font-smoothing: grayscale;
+}
